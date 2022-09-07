@@ -1,0 +1,14 @@
+header.masthead{
+    position: relative;
+    overflow: hidden;
+    padding-top: calc(7rem + 72px);
+    padding-bottom: 7rem;
+    background: url(../166722-macbook-estetika-purpur-fioletovyj-sklon-7680x4320.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.7);
+}
